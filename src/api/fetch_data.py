@@ -1,0 +1,1 @@
+# Contains helper functions to query external APIs (e.g., OpenF1, fastf1, jolpica-f1). This file is responsible for fetching, processing, and converting JSON responses into Pandas DataFrames for further integration.

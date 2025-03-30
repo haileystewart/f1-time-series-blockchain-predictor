@@ -1,0 +1,1 @@
+# Integrates preprocessing, feature engineering, and model training into a unified scikit-learn or TensorFlow pipeline. This file ensures your data flows seamlessly through each stage before predictions.

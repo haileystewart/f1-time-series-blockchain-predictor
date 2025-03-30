@@ -1,0 +1,8 @@
+tensorflow
+optuna
+web3
+ipfshttpclient
+jupyter
+numpy
+pandas
+scikit-learn

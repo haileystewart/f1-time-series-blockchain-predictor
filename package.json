@@ -1,0 +1,24 @@
+{
+  "name": "f1-time-series-blockchain-predictor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haileystewart/f1-time-series-blockchain-predictor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haileystewart/f1-time-series-blockchain-predictor/issues"
+  },
+  "homepage": "https://github.com/haileystewart/f1-time-series-blockchain-predictor#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.19"
+  }
+}

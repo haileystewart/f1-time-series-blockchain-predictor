@@ -1,0 +1,1 @@
+# Loads the processed data and trains machine learning models. This script encapsulates the model training routine, including splitting data, training, and saving model checkpoints.
