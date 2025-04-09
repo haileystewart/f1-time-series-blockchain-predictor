@@ -1,1 +1,0 @@
-# Holds configuration variables like file paths, API keys, and other constants. Centralizing these configurations makes it easier to update settings and paths across different environments.

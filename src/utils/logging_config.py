@@ -1,1 +1,0 @@
-# Sets up a central logging configuration to capture debug and error logs throughout the project. This aids in troubleshooting and monitoring the execution of scripts.

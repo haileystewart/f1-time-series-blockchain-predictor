@@ -1,1 +1,0 @@
-# Evaluates model performance using predefined metrics (e.g., RMSE, accuracy). It reads the trained model and test data to generate performance reports and visualizations of predictions.

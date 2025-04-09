@@ -1,1 +1,0 @@
-# Handles all interactions with smart contracts using web3. This script includes functions to deploy contracts, call contract methods, and listen for events.
